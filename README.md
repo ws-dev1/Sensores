@@ -56,14 +56,9 @@ Para executar este projeto, você precisará de um compilador C. Aqui estão alg
    cd projeto-final-c
    ```  
 
-2. Compile o código usando o GCC:  
+2. Execute o programa:  
    ```bash
-   gcc -o projeto_final main.c biblioteca.c
-   ```  
-
-3. Execute o programa:  
-   ```bash
-   ./projeto_final
+   ./programa
    ```  
 
 4. Siga as instruções na interface para interagir com o programa.  
