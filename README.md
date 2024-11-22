@@ -30,6 +30,11 @@ A biblioteca também inclui funcionalidades para alertas e relatórios, permitin
 
 ---
 
+---
+## :bar_chart: **Visualizção**
+<img src="img/projeto.PNG">
+---
+
 ## 📋 **Pré-requisitos**  
 
 Para executar este projeto, você precisará de um compilador C. Aqui estão algumas opções:  
